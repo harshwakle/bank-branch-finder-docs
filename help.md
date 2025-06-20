@@ -61,8 +61,10 @@ Upload a custom logo.
 Add custom CSS for further styling.
 
 Support
-For any issues or questions, contact the plugin author at:
+For further assistance, visit:
 
+Support Forum
+Contact Support
 Email: wakle.harsh@gmail.com
 GitHub: Bank Branch Finder Repository
 
