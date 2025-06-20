@@ -117,11 +117,11 @@ ________________________________________
 Support Resources
 If you need help with the Bank Finder plugin, explore these resources:
 •	Official Documentation:
-o	Visit https://harshwakle.github.io/bank-branch-finder-docs/ for detailed guides and tutorials.
+o	Visit https://github.com/harshwakle/bank-branch-finder-docs/blob/main/Official%20Documentation.md for detailed guides and tutorials.
 •	Support Forum:
-o	Join the community at https://example.com/support-forum to ask questions and share feedback.
+o	Join the community at https://github.com/harshwakle/bank-branch-finder-docs/blob/main/support-forum.md to ask questions and share feedback.
 •	Contact Support:
-o	Reach out to the plugin author at https://example.com/contact-support for personalized assistance.
+o	Reach out to the plugin author at https://github.com/harshwakle/bank-branch-finder-docs/blob/main/contact-support.md for personalized assistance.
 Note: Ensure you have the latest version of the plugin (v1.8) for access to all features and support.
 ________________________________________
 Troubleshooting
