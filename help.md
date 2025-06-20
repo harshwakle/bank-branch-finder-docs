@@ -23,7 +23,7 @@ A new menu item, Bank Finder, will appear in the WordPress admin dashboard.
 
 Usage
 To add the bank branch search form to your website:
-
+ 
 Create a new page or post.
 Insert the shortcode [bank_finder] in the content editor.
 Save and publish the page.
