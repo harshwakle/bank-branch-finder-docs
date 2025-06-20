@@ -4,7 +4,7 @@ Table of Contents
 
 Introduction
 Installation
-Usage
+Usage 
 Shortcode
 Admin Settings
 Data Management
