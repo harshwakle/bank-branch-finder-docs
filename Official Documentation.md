@@ -10,7 +10,7 @@ Using the Shortcode
 Uploading Bank Data
 Customizing the Plugin
 Managing Bank Data
-Support Resources 
+Support Resources  
 Troubleshooting
 Version History
 
